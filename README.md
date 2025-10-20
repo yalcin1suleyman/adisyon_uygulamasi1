@@ -1,9 +1,3 @@
-Harika 👍
-O zaman ikonları sadeleştirip profesyonel ve temiz bir görünümde yeniden düzenledim.
-Aşağıda **minimal ve modern tarzda** bir README sürümü yer alıyor 👇
-
----
-
 # ☕ Adisyon Uygulaması
 
 Bu proje, bir **kafe veya restoranın masa ve sipariş yönetimini** kolaylaştırmak amacıyla geliştirilen bir **mobil adisyon uygulamasıdır**.
