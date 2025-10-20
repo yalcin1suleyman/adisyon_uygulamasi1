@@ -1,0 +1,89 @@
+{
+  "appTitle": "POS Application",
+  "anasayfa": "Home",
+  "masalar": "Tables",
+  "siparis": "Order",
+  "odeme": "Payment",
+  "rapor": "Report",
+  "kafeAdi": "CAFE NAME",
+  "masaSecimi": "Select Table",
+  "sepetBos": "Cart Empty",
+  "siparisiGonder": "Send Order",
+  "siparisGonderildi": "Order sent for {masa}",
+  "@siparisGonderildi": {
+    "placeholders": {
+      "masa": {}
+    }
+  },
+  "toplamTutar": "Total: {tutar}₺",
+  "@toplamTutar": {
+    "placeholders": {
+      "tutar": {}
+    }
+  },
+  "masaSiparisi": "{masa} Order",
+  "@masaSiparisi": {
+    "placeholders": {
+      "masa": {}
+    }
+  },
+  "icecekler": "Drinks",
+  "tatlilar": "Desserts",
+  "anaYemekler": "Main Dishes",
+  "masaDuzenle": "Edit Table",
+  "masaAdi": "Table Name",
+  "durum": "Status",
+  "saat": "Time",
+  "tutar": "Amount (₺)",
+  "kaydet": "Save",
+  "bos": "Empty",
+  "dolu": "Occupied",
+  "hazirlaniyor": "Preparing",
+  "odemeTipi": "Payment Type",
+  "nakit": "Cash",
+  "krediKarti": "Credit Card",
+  "indirimUygula": "Apply Discount",
+  "indirimOrani": "Discount Rate (%)",
+  "odenecekTutar": "Amount to Pay",
+  "odemeyiTamamla": "Complete Payment",
+  "odemeOnayi": "Payment Confirmation",
+  "odemeAlindi": "{odemeTipi} payment of {tutar}₺ received for {masa}.",
+  "@odemeAlindi": {
+    "placeholders": {
+      "masa": {},
+      "tutar": {},
+      "odemeTipi": {}
+    }
+  },
+  "tamam": "OK",
+  "raporlar": "Reports",
+  "satisRaporu": "Sales Report",
+  "urunRaporu": "Product Report",
+  "masaRaporu": "Table Report",
+  "tarihAraligi": "Date Range",
+  "bugun": "Today",
+  "buHafta": "This Week",
+  "buAy": "This Month",
+  "tumu": "All",
+  "toplamSatis": "Total Sales",
+  "siparisSayisi": "Number of Orders",
+  "ortalamaSiparis": "Average Order",
+  "sonSatislar": "Recent Sales",
+  "toplamUrun": "Total Products",
+  "enCokSatan": "Best Seller",
+  "urunSatisRaporu": "Product Sales Report",
+  "urun": "Product",
+  "adet": "Quantity",
+  "toplam": "Total",
+  "toplamMasa": "Total Tables",
+  "ortalamaSure": "Average Duration",
+  "masaKullanimRaporu": "Table Usage Report",
+  "masa": "Table",
+  "kullanim": "Usage",
+  "ortSure": "Avg. Time",
+  "ciro": "Revenue",
+  "dil": "Language",
+  "dilSecin": "Select Language",
+  "turkce": "Turkish",
+  "ingilizce": "English"
+} 

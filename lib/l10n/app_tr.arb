@@ -1,0 +1,89 @@
+{
+  "appTitle": "Adisyon Uygulaması",
+  "anasayfa": "Anasayfa",
+  "masalar": "Masalar",
+  "siparis": "Sipariş",
+  "odeme": "Ödeme",
+  "rapor": "Rapor",
+  "kafeAdi": "KAFEMİZİN ADI",
+  "masaSecimi": "Masa Seçimi",
+  "sepetBos": "Sepet Boş",
+  "siparisiGonder": "Siparişi Gönder",
+  "siparisGonderildi": "{masa} için sipariş gönderildi",
+  "@siparisGonderildi": {
+    "placeholders": {
+      "masa": {}
+    }
+  },
+  "toplamTutar": "Toplam: {tutar}₺",
+  "@toplamTutar": {
+    "placeholders": {
+      "tutar": {}
+    }
+  },
+  "masaSiparisi": "{masa} Siparişi",
+  "@masaSiparisi": {
+    "placeholders": {
+      "masa": {}
+    }
+  },
+  "icecekler": "İçecekler",
+  "tatlilar": "Tatlılar",
+  "anaYemekler": "Ana Yemekler",
+  "masaDuzenle": "Masa Düzenle",
+  "masaAdi": "Masa Adı",
+  "durum": "Durum",
+  "saat": "Saat",
+  "tutar": "Tutar (₺)",
+  "kaydet": "Kaydet",
+  "bos": "Boş",
+  "dolu": "Dolu",
+  "hazirlaniyor": "Hazırlanıyor",
+  "odemeTipi": "Ödeme Tipi",
+  "nakit": "Nakit",
+  "krediKarti": "Kredi Kartı",
+  "indirimUygula": "İndirim Uygula",
+  "indirimOrani": "İndirim Oranı (%)",
+  "odenecekTutar": "Ödenecek Tutar",
+  "odemeyiTamamla": "Ödemeyi Tamamla",
+  "odemeOnayi": "Ödeme Onayı",
+  "odemeAlindi": "{masa} için {tutar}₺ tutarında {odemeTipi} ödemesi alındı.",
+  "@odemeAlindi": {
+    "placeholders": {
+      "masa": {},
+      "tutar": {},
+      "odemeTipi": {}
+    }
+  },
+  "tamam": "Tamam",
+  "raporlar": "Raporlar",
+  "satisRaporu": "Satış Raporu",
+  "urunRaporu": "Ürün Raporu",
+  "masaRaporu": "Masa Raporu",
+  "tarihAraligi": "Tarih Aralığı",
+  "bugun": "Bugün",
+  "buHafta": "Bu Hafta",
+  "buAy": "Bu Ay",
+  "tumu": "Tümü",
+  "toplamSatis": "Toplam Satış",
+  "siparisSayisi": "Sipariş Sayısı",
+  "ortalamaSiparis": "Ortalama Sipariş",
+  "sonSatislar": "Son Satışlar",
+  "toplamUrun": "Toplam Ürün",
+  "enCokSatan": "En Çok Satan",
+  "urunSatisRaporu": "Ürün Satış Raporu",
+  "urun": "Ürün",
+  "adet": "Adet",
+  "toplam": "Toplam",
+  "toplamMasa": "Toplam Masa",
+  "ortalamaSure": "Ortalama Süre",
+  "masaKullanimRaporu": "Masa Kullanım Raporu",
+  "masa": "Masa",
+  "kullanim": "Kullanım",
+  "ortSure": "Ort. Süre",
+  "ciro": "Ciro",
+  "dil": "Dil",
+  "dilSecin": "Dil Seçin",
+  "turkce": "Türkçe",
+  "ingilizce": "İngilizce"
+} 
